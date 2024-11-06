@@ -1,0 +1,12 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as _C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonCreate_js from 'C:/SafeFile/Documents/WonderlandEngine/colyseus/js/buttonCreate.js';
+_registerEditor(_C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonCreate_js);
+import * as _C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonJoin_js from 'C:/SafeFile/Documents/WonderlandEngine/colyseus/js/buttonJoin.js';
+_registerEditor(_C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonJoin_js);
+import * as _C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonLeave_js from 'C:/SafeFile/Documents/WonderlandEngine/colyseus/js/buttonLeave.js';
+_registerEditor(_C__SafeFile_Documents_WonderlandEngine_colyseus_js_buttonLeave_js);
+import * as _C__SafeFile_Documents_WonderlandEngine_colyseus_js_colyseus_client_js from 'C:/SafeFile/Documents/WonderlandEngine/colyseus/js/colyseus-client.js';
+_registerEditor(_C__SafeFile_Documents_WonderlandEngine_colyseus_js_colyseus_client_js);
+import * as _C__SafeFile_Documents_WonderlandEngine_colyseus_js_network_controller_js from 'C:/SafeFile/Documents/WonderlandEngine/colyseus/js/network-controller.js';
+_registerEditor(_C__SafeFile_Documents_WonderlandEngine_colyseus_js_network_controller_js);
